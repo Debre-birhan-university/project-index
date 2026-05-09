@@ -19,6 +19,7 @@ The purpose of this archive is to:
 | DBU Connect | DBU Connect is a social networking and community-focused Android application designed for Debre Berhan University students to discover and connect with fellow students for friendships, dating🥰, or study partnerships📖 | [Repostory](https://github.com/yasino-916/Dbu_connect.git )|
 | ZapFood | ZapFood is an Ethiopian food ordering and meal planning Android application designed to connect customers with local vendors through personalized meal recommendations, real-time order tracking, and secure digital payment integration 🍲 |[Repository]( https://github.com/tinbit25/ZapFood.git) |
 | Bus tracking system in addisababa | A Bus Tracking System in Addis Ababa allows passengers to track bus locations and arrival times in real time. It improves transport efficiency and reduces passenger waiting time | [Repository](https://github.com/BetiWorku/TransportTrackingSystem.git) |
+| Expense Tracker | Expense Tracker is a smart and simple finance app that helps users monitor income, track daily expenses, manage budgets, and improve saving habits through clear insights and financial reports. | [Repository](https://github.com/Abdurehman95/Expense-tracker.git)|
 
 
 
