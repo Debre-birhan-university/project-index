@@ -20,6 +20,7 @@ The purpose of this archive is to:
 | ZapFood | ZapFood is an Ethiopian food ordering and meal planning Android application designed to connect customers with local vendors through personalized meal recommendations, real-time order tracking, and secure digital payment integration 🍲 |[Repository]( https://github.com/tinbit25/ZapFood.git) |
 | Bus tracking system in addisababa | A Bus Tracking System in Addis Ababa allows passengers to track bus locations and arrival times in real time. It improves transport efficiency and reduces passenger waiting time | [Repository](https://github.com/BetiWorku/TransportTrackingSystem.git) |
 | Expense Tracker | Expense Tracker is a smart and simple finance app that helps users monitor income, track daily expenses, manage budgets, and improve saving habits through clear insights and financial reports. | [Repository](https://github.com/Abdurehman95/Expense-tracker.git)|
+| Fixora Local Service Finder | The Local Services Finder is a mobile application developed to connect users with nearby service providers such as electricians, tutors, plumbers, and freelancers which allows users to search and filter services based on category and location for easier access to reliable local services, and Service providers to register, add, and manage their service listings through the application.|[Repository](https://github.com/haydaWy/Local-Service-Finder.git)|
 
 
 
