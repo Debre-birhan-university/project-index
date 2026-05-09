@@ -21,6 +21,7 @@ The purpose of this archive is to:
 | Bus tracking system in addisababa | A Bus Tracking System in Addis Ababa allows passengers to track bus locations and arrival times in real time. It improves transport efficiency and reduces passenger waiting time | [Repository](https://github.com/BetiWorku/TransportTrackingSystem.git) |
 | Expense Tracker | Expense Tracker is a smart and simple finance app that helps users monitor income, track daily expenses, manage budgets, and improve saving habits through clear insights and financial reports. | [Repository](https://github.com/Abdurehman95/Expense-tracker.git)|
 | Fixora Local Service Finder | The Local Services Finder is a mobile application developed to connect users with nearby service providers such as electricians, tutors, plumbers, and freelancers which allows users to search and filter services based on category and location for easier access to reliable local services, and Service providers to register, add, and manage their service listings through the application.|[Repository](https://github.com/haydaWy/Local-Service-Finder.git)|
+| EsayRent | EasyRent is a modern rental management platform designed to simplify room and property booking services. The system connects renters, room owners, and administrators through mobile and web applications. It provides features such as room listing, online reservations, booking management, and user authentication. EsayRent aims to make the rental process fast, secure, and efficient for all users.|[Repository](https://github.com/MikiyasAfelew/EsayaRent.git)|
 
 
 
