@@ -27,7 +27,24 @@ The purpose of this archive is to:
 
 
 ---
+|Personal Finance Tracker | Personal Finance Tracker is an Android mobile app built with Kotlin and Jetpack Compose. It helps users track their daily income and expenses, set monthly budget goals, and visualize their spending through charts.
 
+The app uses Firebase Authentication for secure login and registration, and stores all financial data locally on the device using a Room database — so it works fully offline.
+
+Key features include:
+
+Add, edit, and delete income and expense transactions
+View balance summary with income and expense totals
+Set monthly budget goals with a progress indicator
+Pie charts showing spending by category
+Attach receipt photos to transactions
+Biometric fingerprint lock for security
+Dark and light mode support
+English and Amharic language support
+Export transaction history to CSV
+The app is built following Clean Architecture with MVVM pattern, using modern Android development tools including Hilt for dependency injection, Paging 3 for performance, and DataStore for user preferences.
+
+Developed by Group 2 as a portfolio project demonstrating professional Android development practices.|[Repository](https://github.com/NardosShumete/Personal-Finance-Tracker)|
 # Repository Guidelines
 
 Each project repository should include:
