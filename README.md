@@ -24,8 +24,15 @@ The purpose of this archive is to:
 | EsayRent | EasyRent is a modern rental management platform designed to simplify room and property booking services. The system connects renters, room owners, and administrators through mobile and web applications. It provides features such as room listing, online reservations, booking management, and user authentication. EsayRent aims to make the rental process fast, secure, and efficient for all users.|[Repository](https://github.com/MikiyasAfelew/EsayaRent.git)|
 |Centralized Financial Management System for Ethiopian Orthodox Churches | A centralized financial management system for Ethiopian Orthodox churches to manage income, expenses, chure contributions, reporting, and church administration across Ethiopia.|[Repository](https://github.com/malfiya1212/ORTHODOXAPP2.git)|
 
+ |Premium Hotel Management & Guest Experience Platform |   
+ This is a full-featured Android application that revolutionizes the hospitality industry by providing a comprehensive digital ecosystem for modern hotel operations. The platform seamlessly integrates guest-facing services, operational management, and staff coordination into a single, intuitive mobile application designed for efficiency, guest satisfaction, and revenue optimization.
 
-|Personal Finance Tracker | Personal Finance Tracker is an Android mobile app built with Kotlin and Jetpack Compose. It helps users track their daily income and expenses, set monthly budget goals, and visualize their spending through charts.
+Vision
+To empower hospitality businesses with cutting-edge technology that enhances guest experiences while streamlining operations, enabling staff to deliver exceptional service, and providing management with real-time insights for data-driven decision-making.| 
+[Repository](https://github.com/Tilahun-Sitotaw/Gondar-Goha-Hotel-Android-App-Project)|
+
+|Personal Finance Tracker | 
+Personal Finance Tracker is an Android mobile app built with Kotlin and Jetpack Compose. It helps users track their daily income and expenses, set monthly budget goals, and visualize their spending through charts.
 
 The app uses Firebase Authentication for secure login and registration, and stores all financial data locally on the device using a Room database — so it works fully offline.
 
@@ -42,7 +49,9 @@ English and Amharic language support
 Export transaction history to CSV
 The app is built following Clean Architecture with MVVM pattern, using modern Android development tools including Hilt for dependency injection, Paging 3 for performance, and DataStore for user preferences.
 
-Developed by Group 2 as a portfolio project demonstrating professional Android development practices.|
+Developed by Group 2 as a portfolio project demonstrating professional Android development practices.
+|
+
 [Repository](https://github.com/NardosShumete/Personal-Finance-Tracker)|
 ---
 
