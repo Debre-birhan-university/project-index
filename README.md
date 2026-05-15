@@ -31,7 +31,25 @@ Organizers can create and manage events by adding event details like venue, date
 Admins manage the whole system by approving organizers, removing fake events, and viewing reports.
 The system uses technologies like Android Studio, Kotlin, and Firebase for authentication, database, storage, and notifications.
 Event Pulse Ethiopia focuses on Ethiopian events such as concerts, celebrations, festivals, university events, and church programs.|[Repository](https://github.com/eyob13a/EventPulse)|
+|lost and found app|The Lost & Found App is a mobile application developed using Kotlin, Jetpack Compose, and Firebase to help users report and recover lost or found items.
 
+Main Features
+User registration and login using Firebase Authentication
+Report lost and found items with item details and images
+Smart matching system that automatically matches similar lost and found items
+Browse all reported items and view detailed information
+Direct contact options through email and phone
+Modern Material Design 3 user interface
+Firebase Firestore and Storage integration for real-time data and image storage
+Security & Verification
+OTP verification system implemented for secure item claiming
+Validation, authorization checks, and secure session handling included
+Technologies Used
+Kotlin
+Jetpack Compose
+Firebase Authentication
+Firestore Database
+MVVM Architecture|[Repository](https://github.com/TraceHubb/lost-and-found-)|
 ---
 
 # Repository Guidelines
