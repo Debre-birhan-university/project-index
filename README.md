@@ -27,7 +27,19 @@ The purpose of this archive is to:
 |Personal Finance Tracker | Personal Finance Tracker is an Android mobile app built with Kotlin and Jetpack Compose. It helps users track their daily income and expenses, set monthly budget goals, and visualize their spending through charts.The app uses Firebase Authentication for secure login and registration, and stores all financial data locally on the device using a Room database — so it works fully offline.|[Repository](https://github.com/NardosShumete/Personal-Finance-Tracker)|
 |Event Pulse |Event Pulse is a mobile application used to discover, create, book, and manage events. It connects event organizers with users who want to attend events. Users can search nearby events such as concerts, university seminars, sports matches, weddings, cultural festivals, church programs, and business expos. They can reserve seats, buy tickets, receive QR code tickets. Organizers can create and manage events by adding event details like venue, date, time, price, and capacity. They can also track attendees and ticket sales. Admins manage the whole system by approving organizers, removing fake events, and viewing reports. |[Repository](https://github.com/eyob13a/EventPulse)|
 | lost and found app| help users report and recover lost or found items. Main Features <br> User registration and login using Firebase Authentication <br> Report lost and found items with item details and images <br> Smart matching system that automatically matches similar lost and found items<br> Browse all reported items and view detailed information <br> Direct contact options through email and phone | [Repository](https://github.com/TraceHubb/lost-and-found-)|
+|Freshman Academy management system|A Kotlin and Firebase-based mobile academic management system for freshman students, teachers, class representatives, and coordinators with smart scheduling, attendance tracking, assignments, quizzes, grading, and communication features.
 
+Freshman Academic Management System is a role-based mobile application developed using Kotlin and Firebase to simplify freshman academic coordination in universities. The system allows coordinators to generate and manage schedules, teachers to handle attendance, materials, assignments, quizzes, and grades, while students and class representatives can access schedules, learning resources, attendance records, notifications, and academic communication in real time.
+
+The application includes:
+
+Automated timetable generation Student and teacher attendance tracking Assignment and quiz management Learning material sharing Grade management and complaints Real-time notifications and communication Role-based access for coordinators, teachers, students, and class representatives
+
+Technologies used:
+
+Kotlin Firebase Authentication Cloud Firestore Firebase Storage Firebase Cloud Messaging (FCM) MVVM Architecture Material Design UI
+
+The project is designed to improve freshman academic coordination, reduce scheduling conflicts, and create a centralized digital learning and management platform for universities.|[Repository](https://github.com/Simon-Ahmed/FAMS)|
 ---
 
 # Repository Guidelines
