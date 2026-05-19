@@ -39,7 +39,7 @@ Technologies used:
 
 Kotlin Firebase Authentication Cloud Firestore Firebase Storage Firebase Cloud Messaging (FCM) MVVM Architecture Material Design UI
 
-The project is designed to improve freshman academic coordination, reduce scheduling conflicts, and create a centralized digital learning and management platform for universities.|[Repository](https://github.com/Simon-Ahmed/FAMS)|
+The project is designed to improve freshman academic coordination, reduce scheduling conflicts, and create a centralized digital learning and management platform for universities.|[Repository](https://github.com/Simon-Ahmed/FAMS)| | Wedding Planner|The Wedding Planner App is an offline-first Android application built with Jetpack Compose and MVVM architecture that helps couples seamlessly manage their wedding timeline and finances. It features an interactive dashboard with a live countdown timer, automated checklist-to-budget synchronization—where adding a task instantly generates a $0$ ETB expense entry—and real-time tracking of total versus remaining budget. Operating entirely without server dependencies, the app securely serializes all data into JSON and stores it locally on the device using SharedPreferences, ensuring complete data privacy and continuous offline functionality.|[Repository](https://github.com/eyob13a/Wedding-Planner)|
 ---
 
 # Repository Guidelines
