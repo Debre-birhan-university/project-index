@@ -95,3 +95,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 12 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
 | 13 | Mengedegna | yirgazd21 | [Mengedegna](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
 | 14 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
+| 15|   Etthio E-learning... | getabalewKemaw |[E-Learning](https://github.com/getabalewKemaw/lab-1-ux-design-haymi-b)|
+| 16 | Astawq | AbelAlelign | [Astawq](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
