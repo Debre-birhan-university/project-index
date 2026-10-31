@@ -84,3 +84,6 @@ List every article, video, book, documentation page (Material Design, Android de
 | 1       | Ethiopia E-Learning Portal | esetawlachew03              | [Ethiopia E-Learning Portal](https://github.com/esetawlachew03/lab-1-ux-design-haymi-b) |
 | 2       | university-attendance-App  | ebenezerandualem4-byte      | [university-attendance-App](https://github.com/ebenezerandualem4-byte/university-attendance-App) |
 | 3       | EsayaRent                  | shanbelkibre                | [EsayaRent](https://github.com/shanbelkibre/EsayaRent) |
+| 4 | ORTHODOXAPP2 | samuelabera21 | [ORTHODOXAPP2](https://github.com/samuelabera21/ORTHODOXAPP2) |
+| 5 | Hulugram | boldhab | [Hulugram](https://github.com/boldhab/lab-hulugram-hab) |
+| 6 | CBE Mobile Banking | HabtamuShewamene | [CBE Mobile Banking](https://github.com/HabtamuShewamene/lab-1-ux-design-Fitsumhelina) |
