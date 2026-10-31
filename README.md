@@ -1,58 +1,167 @@
-# Android Application Development Projects Archive
+# Ethiopian App Design — Project Selection Index
 
-This repository serves as a central index of Android application development projects created by students within the organization.
+> **Outside-app approvals: 0/5**
 
-The purpose of this archive is to:
-- Showcase previous student projects
-- Help future batches explore project ideas
-- Provide reference implementations and learning resources
-- Maintain a centralized collection of Android projects
+## 1. Student Project Registration
+
+This index tracks the Ethiopian mobile applications selected by students for this year's Lab Assignment: Critique and Rebuild an Ethiopian App Design.
+
+**Important:** Every student must work on a different application. Check this index before selecting and registering your project.
+
+### Registered Projects
+
+| No. | Application Name | Student GitHub Username | Fork Repository |
+|---|---|---|---|
+| — | No projects registered yet | — | — |
+
+### Selection Rules
+
+1. Check this index before choosing an application.
+2. Browse the previous students' repositories using the [Previous Students' Forks](https://github.com/Debre-birhan-university/debre-berhan-university-classroom-seng4061-lab-1-ux-design-crispy-dollop/forks).
+3. Select an available application.
+4. Fork the repository belonging to the previous student whose design you want to study.
+5. Send your fork link to the project index administrator.
+6. The administrator will inspect your fork, verify the selected application from its README, and add your registration here.
+7. If the application is already registered, you must select another one.
+
+**First come, first served:** An application is considered taken once its registration is verified and added to this index.
+
+### Changing Your Selection
+
+If you want to change your selected application:
+
+- Contact the administrator first.
+- Your previous registration will be replaced or removed.
+- Your previous application will become available to other students.
+- Your new selection must follow the same availability rules.
+
+## 2. Outside-App Approval
+
+Students may request permission to work on an Ethiopian application that was not selected in last year's project collection.
+
+**Prior approval is mandatory. Do not fork or register an outside application before receiving approval.**
+
+To request approval, contact the administrator and provide:
+
+- Application name and official website or app link.
+- Why you want to study this application.
+- Useful supporting resources, research, documentation, or real experience with the application.
+
+Approval is granted only when the student provides useful supporting material.
+
+If the request is uncertain, the administrator must consult the instructor.
+
+**Maximum outside-app approvals: 5 for the entire class.**
+
+### Outside-App Registration
+
+Approved outside applications must be marked with `(outside)`.
+
+Example:
+
+| No. | Application Name | Student GitHub Username | Fork Repository |
+|---|---|---|---|
+| 1 | Example Ethiopian App (outside) | student123 | [Fork link](https://github.com/) |
+
+Update the counter whenever an outside application is approved or an existing approval is released.
+
+## 3. Previous Students' Project Collection
+
+Browse the previous students' repositories here:
+
+[View All Previous Students' Forks](https://github.com/Debre-birhan-university/debre-berhan-university-classroom-seng4061-lab-1-ux-design-crispy-dollop/forks)
+
+Each previous student's repository should contain:
+
+1. `mobileapp.png`: Tutorial proof from the `ux.pdf` guide.
+2. Images/PDFs of the main project: Their design of the Ethiopian application.
+3. `README.md`: Selected application name and design tool.
 
 ---
 
-# Project List
+# Lab Assignment: Critique and Rebuild an Ethiopian App Design
 
-| Project Name | Description | Repository |
-|---|---|---|
-| Attendify | a mobile application designed to simplify attendance management and class scheduling in educational institutions.The system enables students, teachers, and administrators to manage attendance and  schedules efficiently through a secure and user-friendly platform| [Repository](https://github.com/MierafA12/university-attendance-App)  |
-|College Alert Hub | A real‑time campus notification system that enables administrators or teachers to broadcast urgent announcements, exam schedules, and event alerts to students via push notifications and a dedicated mobile app. |[Repository](https://github.com/tsediworku123/mobile-app-project)|
-| DBU Connect | DBU Connect is a social networking and community-focused Android application designed for Debre Berhan University students to discover and connect with fellow students for friendships, dating🥰, or study partnerships📖 | [Repostory](https://github.com/yasino-916/Dbu_connect.git )|
-| ZapFood | ZapFood is an Ethiopian food ordering and meal planning Android application designed to connect customers with local vendors through personalized meal recommendations, real-time order tracking, and secure digital payment integration 🍲 |[Repository]( https://github.com/tinbit25/ZapFood.git) |
-| Bus tracking system in addisababa | A Bus Tracking System in Addis Ababa allows passengers to track bus locations and arrival times in real time. It improves transport efficiency and reduces passenger waiting time | [Repository](https://github.com/BetiWorku/TransportTrackingSystem.git) |
-| Expense Tracker | Expense Tracker is a smart and simple finance app that helps users monitor income, track daily expenses, manage budgets, and improve saving habits through clear insights and financial reports. | [Repository](https://github.com/Abdurehman95/Expense-tracker.git)|
-| Fixora Local Service Finder | The Local Services Finder is a mobile application developed to connect users with nearby service providers such as electricians, tutors, plumbers, and freelancers which allows users to search and filter services based on category and location for easier access to reliable local services, and Service providers to register, add, and manage their service listings through the application.|[Repository](https://github.com/haydaWy/Local-Service-Finder.git)|
-| EsayRent | EasyRent is a modern rental management platform designed to simplify room and property booking services. The system connects renters, room owners, and administrators through mobile and web applications. It provides features such as room listing, online reservations, booking management, and user authentication. EsayRent aims to make the rental process fast, secure, and efficient for all users.|[Repository](https://github.com/MikiyasAfelew/EsayaRent.git)|
-|Centralized Financial Management System for Ethiopian Orthodox Churches | A centralized financial management system for Ethiopian Orthodox churches to manage income, expenses, chure contributions, reporting, and church administration across Ethiopia.|[Repository](https://github.com/malfiya1212/ORTHODOXAPP2.git)|
-|Premium Hotel Management & Guest Experience Platform | This is a full-featured Android application that revolutionizes the hospitality industry by providing a comprehensive digital ecosystem for modern hotel operations. The platform seamlessly integrates guest-facing services, operational management, and staff coordination into a single, intuitive mobile application designed for efficiency, guest satisfaction, and revenue optimization.| [Repository](https://github.com/Tilahun-Sitotaw/Gondar-Goha-Hotel-Android-App-Project)|
-|Personal Finance Tracker | Personal Finance Tracker is an Android mobile app built with Kotlin and Jetpack Compose. It helps users track their daily income and expenses, set monthly budget goals, and visualize their spending through charts.The app uses Firebase Authentication for secure login and registration, and stores all financial data locally on the device using a Room database — so it works fully offline.|[Repository](https://github.com/NardosShumete/Personal-Finance-Tracker)|
-|Event Pulse |Event Pulse is a mobile application used to discover, create, book, and manage events. It connects event organizers with users who want to attend events. Users can search nearby events such as concerts, university seminars, sports matches, weddings, cultural festivals, church programs, and business expos. They can reserve seats, buy tickets, receive QR code tickets. Organizers can create and manage events by adding event details like venue, date, time, price, and capacity. They can also track attendees and ticket sales. Admins manage the whole system by approving organizers, removing fake events, and viewing reports. |[Repository](https://github.com/eyob13a/EventPulse)|
-| lost and found app| help users report and recover lost or found items. Main Features <br> User registration and login using Firebase Authentication <br> Report lost and found items with item details and images <br> Smart matching system that automatically matches similar lost and found items<br> Browse all reported items and view detailed information <br> Direct contact options through email and phone | [Repository](https://github.com/TraceHubb/lost-and-found-)|
-|Freshman Academy management system|A Kotlin and Firebase-based mobile academic management system for freshman students, teachers, class representatives, and coordinators with smart scheduling, attendance tracking, assignments, quizzes, grading, and communication features.
+## Background
 
-Freshman Academic Management System is a role-based mobile application developed using Kotlin and Firebase to simplify freshman academic coordination in universities. The system allows coordinators to generate and manage schedules, teachers to handle attendance, materials, assignments, quizzes, and grades, while students and class representatives can access schedules, learning resources, attendance records, notifications, and academic communication in real time.
+Last year's batch did Lab 1 (UX Design). Each student chose one real mobile app working in Ethiopia (Telebirr, Ride, ZayRide, Gebeta, etc.) and wireframed it in draw.io or Figma.
 
-The application includes:
+This year you will continue that work: study a previous student's design, critique it, propose an improvement, and build it in Android Studio's XML editor.
 
-Automated timetable generation Student and teacher attendance tracking Assignment and quiz management Learning material sharing Grade management and complaints Real-time notifications and communication Role-based access for coordinators, teachers, students, and class representatives
+## Step 1: Choose and Fork a Repository
 
-Technologies used:
+- Open several forks. Read the README and look at the design images.
+- Choose an app you actually use or have strong opinions about.
+- Check this project index to ensure the application is available.
+- Fork the student's repository, not the original template.
+- Work only in your fork.
+- Install and use the real app if possible. If you cannot, rely on screenshots, Play Store listings, and videos, and explain this limitation in your critique.
 
-Kotlin Firebase Authentication Cloud Firestore Firebase Storage Firebase Cloud Messaging (FCM) MVVM Architecture Material Design UI
+## Step 2: Write `CRITIQUE.md`
 
-The project is designed to improve freshman academic coordination, reduce scheduling conflicts, and create a centralized digital learning and management platform for universities.|[Repository](https://github.com/Simon-Ahmed/FAMS)| | Wedding Planner|The Wedding Planner App is an offline-first Android application built with Jetpack Compose and MVVM architecture that helps couples seamlessly manage their wedding timeline and finances. It features an interactive dashboard with a live countdown timer, automated checklist-to-budget synchronization—where adding a task instantly generates a $0$ ETB expense entry—and real-time tracking of total versus remaining budget. Operating entirely without server dependencies, the app securely serializes all data into JSON and stores it locally on the device using SharedPreferences, ensuring complete data privacy and continuous offline functionality.|[Repository](https://github.com/eyob13a/Wedding-Planner)|
+Critique two things:
+
+1. The real app as it works today in Ethiopia.
+2. The previous student's wireframe/redesign of it.
+
+Evaluate whether the wireframe fixes the app's problems, ignores them, or introduces new ones.
+
+### A. UI: How It Looks
+
+- Layout, spacing, alignment, and visual hierarchy.
+- Color palette, contrast, and readability, including outdoors in sunlight.
+- Typography, iconography, and consistency across screens.
+
+### B. UX: How It Works
+
+- Is the main task easy to find and complete? Count the taps.
+- Onboarding, login, and navigation flow.
+- Accessibility: text size, contrast, and touch targets (at least 48dp).
+- Does it solve a real problem for real users, including those on low-end phones or weak connections?
+- Error, empty, and loading states, and user feedback.
+
+### What a Good Critique Includes
+
+- Apply what we discussed in class about the future of apps and UX design.
+- Be specific: name the exact screen and element.
+- Use screenshots or annotations of the real app and the wireframe.
+- Credit what works well.
+- Read beyond the class.
+- Reflect your own analysis.
+
+## Step 3: Write `PROPOSAL.md`
+
+Include:
+
+- **The problem:** Which issue from your critique are you addressing?
+- **The proposed solution:** What changes, and why is it better?
+- **Expected impact:** How does it improve the UI, UX, or both?
+- **Scope:** Choose one core flow (1 to 3 screens) and do it well.
+
+A focused, justified improvement is better than a rushed redesign of everything.
+
+## Step 4: Build It in Android Studio (XML)
+
+Last year's designs were made in draw.io or Figma. This year's design must be built in the Android Studio XML editor.
+
+- Create an Android Studio project (Empty Views Activity) inside your fork.
+- Implement your proposal as XML layouts in `res/layout/*.xml`.
+- Include supporting resources (`colors.xml`, `strings.xml`, `themes.xml`, `dimens.xml`, and drawables).
+- Ensure layouts render correctly in the Design/Preview pane.
+- Check at least two screen sizes.
+- Include preview screenshots of every designed screen in `/screenshots`.
+- Kotlin/Java logic is not required. This is a design exercise, but layouts should be clean and realistic.
+
+## Step 5: Document Your Learning in `RESOURCES.md`
+
+List every article, video, book, documentation page (Material Design, Android developer docs), and class discussion you used.
+
+If you used AI tools (ChatGPT, Claude, Gemini, etc.):
+
+- State which tool you used and what you used it for.
+- Ask for sources and verify every link yourself.
+- Include only verified links that exist and support your points.
+- Be honest about your own contribution and analysis.
+
 ---
 
-# Repository Guidelines
-
-Each project repository should include:
-
-- Complete project source code
-- Proper project structure
-- Working build configuration
-- `README.md` documentation
-- Screenshots of the application
-- Build and run instructions
-
-Projects must compile and run successfully before being pushed.
-
----
+**Final Reminder:** Check the project selection index before registering. Each student must work on a different application. All project registrations and outside-app approvals must follow the rules above.
