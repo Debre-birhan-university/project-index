@@ -4,7 +4,7 @@
 
 Last year's batch did Lab 1 (UX Design). Each student chose one real mobile app working in Ethiopia (Telebirr, Ride, ZayRide, Gebeta, etc.) and wireframed it in draw.io or Figma. Each student's repo contains:
 
-1. `mobileapp.png`: tutorial proof from the `ux.pdf` guide (you can ignore this file)
+1. `mobileapp.png`: tutorial proof from the `ux.pdf` guide 
 2. Images/PDFs of the **main project**: their design of the Ethiopian app
 3. `README.md` stating the selected app and the design tool used
 
