@@ -94,4 +94,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 11 | Tuba Ethiopian Books | Nigist-Z | [Tuba Ethiopian Books](https://github.com/Nigist-Z/lab-1-ux-design-MierafA12) |
 | 12 | Jiji Ethiopia | barkotdereje | [Jiji Ethiopia](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
 | 13 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
-| 13 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
+| 14 | Mengedegna | yirgazd21 | [Mengedegna](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
+| 15 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
