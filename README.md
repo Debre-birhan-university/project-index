@@ -12,7 +12,7 @@ This index tracks the Ethiopian mobile applications selected by students for thi
 
 | No. | Application Name | Student GitHub Username | Fork Repository |
 |---|---|---|---|
-| — | No projects registered yet | — | — |
+| 1 | Ethiopia E-Learning Portal |esetawlachew03 | https://github.com/esetawlachew03/lab-1-ux-design-haymi-b |
 
 ### Selection Rules
 
@@ -61,7 +61,7 @@ Example:
 
 | No. | Application Name | Student GitHub Username | Fork Repository |
 |---|---|---|---|
-| 1 | Example Ethiopian App (outside) | student123 | [Fork link](https://github.com/) |
+| 1 | Example Ethiopian App (outside) |student123 | [Fork link](https://github.com/) |
 
 Update the counter whenever an outside application is approved or an existing approval is released.
 
