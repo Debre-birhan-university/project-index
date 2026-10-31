@@ -88,3 +88,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 5 | Hulugram | boldhab | [Hulugram](https://github.com/boldhab/lab-hulugram-hab) |
 | 6 | CBE Mobile Banking | HabtamuShewamene | [CBE Mobile Banking](https://github.com/HabtamuShewamene/lab-1-ux-design-Fitsumhelina) |
 | 7 | H-Cash | biniyamagegnehu | [H-Cash](https://github.com/biniyamagegnehu/lab-1-ux-design-kalkidan1919) |
+| 8 | Ethio Matric | mulukenkassaw2025 | [Ethio Matric](https://github.com/mulukenkassaw2025/lab-1-ux-design-malfiya1212) |
+| 9 | Application name (check README) | YonasGetaw | [Student Repository](https://github.com/YonasGetaw/lab-1-ux-design-amangebregziabher) |
