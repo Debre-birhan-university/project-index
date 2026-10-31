@@ -79,3 +79,8 @@ List every article, video, book, documentation page (Material Design, Android de
 - Using AI to learn is fine. Submitting its work as your own thinking is not.
 
 # List of projects
+| **No.** | **Application Name**       | **Student GitHub Username** | **Fork Repository** |
+| ------- | -------------------------- | --------------------------- | ------------------- |
+| 1       | Ethiopia E-Learning Portal | esetawlachew03              | [Ethiopia E-Learning Portal](https://github.com/esetawlachew03/lab-1-ux-design-haymi-b) |
+| 2       | university-attendance-App  | ebenezerandualem4-byte      | [university-attendance-App](https://github.com/ebenezerandualem4-byte/university-attendance-App) |
+| 3       | EsayaRent                  | shanbelkibre                | [EsayaRent](https://github.com/shanbelkibre/EsayaRent) |
