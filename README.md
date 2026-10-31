@@ -92,3 +92,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 9 | Application name (check README) | YonasGetaw | [Student Repository](https://github.com/YonasGetaw/lab-1-ux-design-amangebregziabher) |
 | 10 |fyn ግዕዝ 2 | YohannesBirhane | [fyn ግዕዝ 2](https://github.com/YohannesBirhane/lab-1-ux-design-fyn---) |
 | 11 | Tuba Ethiopian Books | Nigist-Z | [Tuba Ethiopian Books](https://github.com/Nigist-Z/lab-1-ux-design-MierafA12) |
+| 12 | Jiji Ethiopia | barkotdereje | [Jiji Ethiopia](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
+| 13 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
