@@ -82,18 +82,18 @@ List every article, video, book, documentation page (Material Design, Android de
 | **No.** | **Application Name**       | **Student GitHub Username** | **Fork Repository** |
 | ------- | -------------------------- | --------------------------- | ------------------- |
 | 1       | Ethiopia E-Learning Portal | esetawlachew03              | [Ethiopia E-Learning Portal](https://github.com/esetawlachew03/lab-1-ux-design-haymi-b) |
-| 2       | EsayaRent                  | shanbelkibre                | [EsayaRent](https://github.com/shanbelkibre/EsayaRent) |
+|2 | Tuba Ethiopian Books | shanbelkibre | [Tuba Ethiopian Books](https://github.com/shanbelkibre/lab-1-ux-design-MierafA12/tree/main) |
 | 3 | ORTHODOXAPP2 | samuelabera21 | [ORTHODOXAPP2](https://github.com/samuelabera21/ORTHODOXAPP2) |
 | 4 | Hulugram | boldhab | [Hulugram](https://github.com/boldhab/lab-hulugram-hab) |
 | 5 | CBE Mobile Banking | HabtamuShewamene | [CBE Mobile Banking](https://github.com/HabtamuShewamene/lab-1-ux-design-Fitsumhelina) |
 | 6 | H-Cash | biniyamagegnehu | [H-Cash](https://github.com/biniyamagegnehu/lab-1-ux-design-kalkidan1919) |
 | 7 | Ethio Matric | mulukenkassaw2025 | [Ethio Matric](https://github.com/mulukenkassaw2025/lab-1-ux-design-malfiya1212) |
 | 8 | Application name (check README) | YonasGetaw | [Student Repository](https://github.com/YonasGetaw/lab-1-ux-design-amangebregziabher) |
-| 9 |fyn ግዕዝ 2 | YohannesBirhane | [fyn ግዕዝ 2](https://github.com/YohannesBirhane/lab-1-ux-design-fyn---) |
-| 10 | Tuba Ethiopian Books | Nigist-Z | [Tuba Ethiopian Books](https://github.com/Nigist-Z/lab-1-ux-design-MierafA12) |
-| 11 | Jiji Ethiopia | barkotdereje | [Jiji Ethiopia](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
-| 12 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
-| 13 | Mengedegna | yirgazd21 | [Mengedegna](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
-| 14 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
-| 15|   Etthio E-learning... | getabalewKemaw |[E-Learning](https://github.com/getabalewKemaw/lab-1-ux-design-haymi-b)|
-| 16 | Astawq | AbelAlelign | [Astawq](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
+| 9 |fyn ግዕዝ 2 | YohannesBirhane | [fyn ግዕዝ 2](https://github.com/YohannesBirhane/lab-1-ux-design-fyn---) | 
+| 10 | Jiji Ethiopia | barkotdereje | [Jiji Ethiopia](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
+| 11 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
+| 12 | Mengedegna | yirgazd21 | [Mengedegna](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
+| 13 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
+| 14|   Etthio E-learning... | getabalewKemaw |[E-Learning](https://github.com/getabalewKemaw/lab-1-ux-design-haymi-b)|
+| 15 | Astawq | AbelAlelign | [Astawq](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
+| 16 | Fayda Mobile App | Altaseb-Chernet | [Fayda Mobile App](https://github.com/Altaseb-Chernet/lab-1-ux-design-yasino-916) |
