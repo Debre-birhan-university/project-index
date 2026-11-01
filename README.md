@@ -81,30 +81,32 @@ List every article, video, book, documentation page (Material Design, Android de
 # List of projects
 | **No.** | **Application Name**       | **Student GitHub Username** | **Fork Repository** |
 | ------- | -------------------------- | --------------------------- | ------------------- |
-| 1       | Ethiopia E-Learning Portal | esetawlachew03              | [Ethiopia E-Learning Portal](https://github.com/esetawlachew03/lab-1-ux-design-haymi-b) |
-|2 | Tuba Ethiopian Books | shanbelkibre | [Tuba Ethiopian Books](https://github.com/shanbelkibre/lab-1-ux-design-MierafA12/tree/main) |
-| 3 | ORTHODOXAPP2 | samuelabera21 | [ORTHODOXAPP2](https://github.com/samuelabera21/ORTHODOXAPP2) |
-| 4 | Hulugram | boldhab | [Hulugram](https://github.com/boldhab/lab-hulugram-hab) |
-| 5 | CBE Mobile Banking | HabtamuShewamene | [CBE Mobile Banking](https://github.com/HabtamuShewamene/lab-1-ux-design-Fitsumhelina) |
-| 6 | H-Cash | biniyamagegnehu | [H-Cash](https://github.com/biniyamagegnehu/lab-1-ux-design-kalkidan1919) |
-| 7 | Ethio Matric | mulukenkassaw2025 | [Ethio Matric](https://github.com/mulukenkassaw2025/lab-1-ux-design-malfiya1212) |
-| 8 | Tele Birr | YonasGetaw | [Tele Birr](https://github.com/YonasGetaw/lab-1-ux-design-amangebregziabher) |
-| 9 |fyn ግዕዝ 2 | YohannesBirhane | [fyn ግዕዝ 2](https://github.com/YohannesBirhane/lab-1-ux-design-fyn---) | 
-| 10 | Jiji Ethiopia | barkotdereje | [Jiji Ethiopia](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
-| 11 | Semu Audiobooks | fasikayonas | [Semu Audiobooks](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
-| 12 | Mengedegna | yirgazd21 | [Mengedegna](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
-| 13 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Prayer Book](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
-| 14|   Etthio E-learning... | getabalewKemaw |[E-Learning](https://github.com/getabalewKemaw/lab-1-ux-design-haymi-b)|
-| 15 | Astawq | AbelAlelign | [Astawq](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
-| 16 | Fayda Mobile App | Altaseb-Chernet | [Fayda Mobile App](https://github.com/Altaseb-Chernet/lab-1-ux-design-yasino-916) |
-| 17 | Delivery Addis | Lydiaa246 | [Delivery Addis](https://github.com/Lydiaa246/lab-1-ux-design-LydiaAbebaw) |
-| 18 | LegalTech | ahmedseid9392 | [ClauseBit: LegalTech](https://github.com/ahmedseid9392/lab-1-ux-design-Yamtk1178) |
-| 19 | Gazzette Plus | Nicohena | [Gazzette Plus](https://github.com/Nicohena/lab-1-ux-design-lidia-shenkut) |
-| 20 | Ethiopian Salary Calculator | estif295 | [Ethiopian Salary Calculator](https://github.com/estif295/lab-1-ux-design-elu2121) |
-| 21 | M-Pesa Ethiopia | abraomex | [M-Pesa Ethiopia](https://github.com/abraomex/lab-1-ux-design-Tilahun-Sitotaw-Abrham-Belay) |
-| 22 | eQUB | Nigist-Z | [eQUB](https://github.com/Nigist-Z/lab-1-ux-design-Rediet2077) |
+| 1       | Ethiopia E-Learning Portal | esetawlachew03              | [Repository](https://github.com/esetawlachew03/lab-1-ux-design-haymi-b) |
+|2 | Tuba Ethiopian Books | shanbelkibre | [Repository](https://github.com/shanbelkibre/lab-1-ux-design-MierafA12/tree/main) |
+| 3 | ORTHODOXAPP2 | samuelabera21 | [Repository](https://github.com/samuelabera21/ORTHODOXAPP2) |
+| 4 | Hulugram | boldhab | [Repository](https://github.com/boldhab/lab-hulugram-hab) |
+| 5 | CBE Mobile Banking | HabtamuShewamene | [Repository](https://github.com/HabtamuShewamene/lab-1-ux-design-Fitsumhelina) |
+| 6 | H-Cash | biniyamagegnehu | [Repository](https://github.com/biniyamagegnehu/lab-1-ux-design-kalkidan1919) |
+| 7 | Ethio Matric | mulukenkassaw2025 | [Repository](https://github.com/mulukenkassaw2025/lab-1-ux-design-malfiya1212) |
+| 8 | Tele Birr | YonasGetaw | [Repository](https://github.com/YonasGetaw/lab-1-ux-design-amangebregziabher) |
+| 9 |fyn ግዕዝ 2 | YohannesBirhane | [Repository](https://github.com/YohannesBirhane/lab-1-ux-design-fyn---) | 
+| 10 | Jiji Ethiopia | barkotdereje | [Repository](https://github.com/barkotdereje/lab-1-ux-design-kido19) |
+| 11 | Semu Audiobooks | fasikayonas | [Repository](https://github.com/fasikayonas/lab-1-ux-design-haset-T) |
+| 12 | Mengedegna | yirgazd21 | [Repository](https://github.com/yirgazd21/lab-1-ux-design-haydaWy) |
+| 13 | ጸሎት መጽሐፍ (outside) | Leta-Kasahun | [Repository](https://github.com/Leta-Kasahun/lab-1-ux-design-13eyob/tree/main) |
+| 14|   Etthio E-learning... | getabalewKemaw |[Repository](https://github.com/getabalewKemaw/lab-1-ux-design-haymi-b)|
+| 15 | Astawq | AbelAlelign | [Repository](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
+| 16 | Fayda Mobile App | Altaseb-Chernet | [Repository](https://github.com/Altaseb-Chernet/lab-1-ux-design-yasino-916) |
+| 17 | Delivery Addis | Lydiaa246 | [Repository](https://github.com/Lydiaa246/lab-1-ux-design-LydiaAbebaw) |
+| 18 | LegalTech | ahmedseid9392 | [Repository](https://github.com/ahmedseid9392/lab-1-ux-design-Yamtk1178) |
+| 19 | Gazzette Plus | Nicohena | [Repository](https://github.com/Nicohena/lab-1-ux-design-lidia-shenkut) |
+| 20 | Ethiopian Salary Calculator | estif295 | [Repository](https://github.com/estif295/lab-1-ux-design-elu2121) |
+| 21 | M-Pesa Ethiopia | abraomex | [Repository](https://github.com/abraomex/lab-1-ux-design-Tilahun-Sitotaw-Abrham-Belay) |
+| 22 | eQUB | Nigist-Z | [Repository](https://github.com/Nigist-Z/lab-1-ux-design-Rediet2077) |
 | 23 | Feres App | Belete-Dereje | [Repository](https://github.com/Belete-Dereje/lab-1-ux-design-Halidjr) |
 | 24 | Arganon: Mezmur & Kidase Study (outside) | mahi-a-1 | [Google Play](https://play.google.com/store/apps/details?id=com.melloss.arganon) |
-| 25 | Beu Delivery App | itsbrukti | [Beu Delivery App](https://github.com/itsbrukti/lab-1-ux-design-yoadin) |
-| 26 | teleTV | Melatananu | [teleTV APP](https://github.com/Melatananu/lab-1-ux-design-tinbit25-Melat) |
-| 27 | TinaMart | Ruhama27 | [TinaMart APP](https://github.com/Ruhama27/lab-1-ux-design-tsediworku123) |
+| 25 | Beu Delivery App | itsbrukti | [Repository](https://github.com/itsbrukti/lab-1-ux-design-yoadin) |
+| 26 | teleTV | Melatananu | [Repository](https://github.com/Melatananu/lab-1-ux-design-tinbit25-Melat) |
+| 27 | TinaMart | Ruhama27 | [Repository](https://github.com/Ruhama27/lab-1-ux-design-tsediworku123) 
+| 28 | Efoyta Digital Lending App | mhirrt12 | [ Repository](https://github.com/mhirrt12/lab-1-ux-design-Nahusenay-S) |
+| 29 | Zemen Gebeya | ebenezerandualem4-byte | [Repository](https://github.com/ebenezerandualem4-byte/zemen-gebeya) |
