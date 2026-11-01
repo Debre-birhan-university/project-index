@@ -98,3 +98,4 @@ List every article, video, book, documentation page (Material Design, Android de
 | 15 | Astawq | AbelAlelign | [Astawq](https://github.com/AbelAlelign/lab-1-ux-design-Amanualegezahegne) |
 | 16 | Fayda Mobile App | Altaseb-Chernet | [Fayda Mobile App](https://github.com/Altaseb-Chernet/lab-1-ux-design-yasino-916) |
 | 17 | Delivery Addis | Lydiaa246 | [Delivery Addis](https://github.com/Lydiaa246/lab-1-ux-design-LydiaAbebaw) |
+| 18 | LegalTech | ahmedseid9392 | [ClauseBit: LegalTech](https://github.com/ahmedseid9392/lab-1-ux-design-Yamtk1178) |
