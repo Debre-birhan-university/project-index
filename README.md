@@ -100,3 +100,4 @@ List every article, video, book, documentation page (Material Design, Android de
 | 17 | Delivery Addis | Lydiaa246 | [Delivery Addis](https://github.com/Lydiaa246/lab-1-ux-design-LydiaAbebaw) |
 | 18 | LegalTech | ahmedseid9392 | [ClauseBit: LegalTech](https://github.com/ahmedseid9392/lab-1-ux-design-Yamtk1178) |
 | 19 | Gazzette Plus | Nicohena | [Gazzette Plus](https://github.com/Nicohena/lab-1-ux-design-lidia-shenkut) |
+| 20 | Ethiopian Salary Calculator | estif295 | [Ethiopian Salary Calculator](https://github.com/estif295/lab-1-ux-design-elu2121) |
