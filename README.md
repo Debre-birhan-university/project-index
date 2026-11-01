@@ -111,3 +111,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 28 | Efoyta Digital Lending App | mhirrt12 | [ Repository](https://github.com/mhirrt12/lab-1-ux-design-Nahusenay-S) |
 | 29 | Zemen Gebeya | ebenezerandualem4-byte | [Repository](https://github.com/ebenezerandualem4-byte/zemen-gebeya) |
 | 30 | YeneHealth | KALU56 | [Repository](https://github.com/KALU56/lab-1-ux-design-yeab-B) |
+| 31 | Ethio Jobs | Sara-T7 | [Repository](https://github.com/Sara-T7/lab-1-ux-design-aprotovic) |
+| 32 | Photomath | Er16211 | [Repository](https://github.com/Er16211/lab-1-ux-design-YosephBzuayehu) |
