@@ -106,3 +106,5 @@ List every article, video, book, documentation page (Material Design, Android de
 | 23 | Feres App | Belete-Dereje | [Repository](https://github.com/Belete-Dereje/lab-1-ux-design-Halidjr) |
 | 24 | Arganon: Mezmur & Kidase Study (outside) | mahi-a-1 | [Google Play](https://play.google.com/store/apps/details?id=com.melloss.arganon) |
 | 25 | Beu Delivery App | itsbrukti | [Beu Delivery App](https://github.com/itsbrukti/lab-1-ux-design-yoadin) |
+| 26 | teleTV | Melatananu | [teleTV APP](https://github.com/Melatananu/lab-1-ux-design-tinbit25-Melat) |
+| 27 | TinaMart | Ruhama27 | [TinaMart APP](https://github.com/Ruhama27/lab-1-ux-design-tsediworku123) |
