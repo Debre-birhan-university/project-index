@@ -115,3 +115,4 @@ List every article, video, book, documentation page (Material Design, Android de
 | 32 | Photomath | Er16211 | [Repository](https://github.com/Er16211/lab-1-ux-design-YosephBzuayehu) |
 | 33 | Awash Birr Pro | naomi-dereje | [Repository](https://github.com/naomi-dereje/lab-1-ux-design-kalk-24) |
 | 34 | Voila Voyage | Icongirma | [Repository](https://github.com/Icongirma/debre-berhan-university-classroom-seng4061-lab-1-ux-design-crispy-dollop) |
+| 35 | Ethio Fact | tsiondaniel-ux | [Repository](https://github.com/tsiondaniel-ux/lab-1-ux-design-tsedeniayeshibelay) |
