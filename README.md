@@ -102,3 +102,7 @@ List every article, video, book, documentation page (Material Design, Android de
 | 19 | Gazzette Plus | Nicohena | [Gazzette Plus](https://github.com/Nicohena/lab-1-ux-design-lidia-shenkut) |
 | 20 | Ethiopian Salary Calculator | estif295 | [Ethiopian Salary Calculator](https://github.com/estif295/lab-1-ux-design-elu2121) |
 | 21 | M-Pesa Ethiopia | abraomex | [M-Pesa Ethiopia](https://github.com/abraomex/lab-1-ux-design-Tilahun-Sitotaw-Abrham-Belay) |
+| 22 | eQUB | Nigist-Z | [eQUB](https://github.com/Nigist-Z/lab-1-ux-design-Rediet2077) |
+| 23 | Feres App | Belete-Dereje | [Repository](https://github.com/Belete-Dereje/lab-1-ux-design-Halidjr) |
+| 24 | Arganon: Mezmur & Kidase Study (outside) | mahi-a-1 | [Google Play](https://play.google.com/store/apps/details?id=com.melloss.arganon) |
+| 25 | Beu Delivery App | itsbrukti | [Beu Delivery App](https://github.com/itsbrukti/lab-1-ux-design-yoadin) |
