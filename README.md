@@ -1,5 +1,7 @@
 # Lab Assignment: Critique and Rebuild an Ethiopian App Design
 
+> **Outside-app approvals: 2/5**
+
 ## Background
 
 Last year's batch did Lab 1 (UX Design). Each student chose one real mobile app working in Ethiopia (Telebirr, Ride, ZayRide, Gebeta, etc.) and wireframed it in draw.io or Figma. Each student's repo contains:
